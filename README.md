@@ -8,10 +8,10 @@ Notes:
 •Game is not an opensrc project because some chinese devs are taking other's projects and making it like they are the one who did the mod.
 
 Authors:
-      >DSRGAMEING
-      >nillerusr
-      >jusic (for port)
-      >ChatGPT (for ui)
+      ➮DSRGAMEING
+      ➮nillerusr
+      ➮jusic (for port)
+      ➮ChatGPT (for ui)
 
 Contact Me:
 Telegram: https://t.me/@DSRGAMEING
